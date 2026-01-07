@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.pinky {
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#sole{
+    color: blue;
+    font-size: 36px;
+}
+
+.sweet {
+    font-size: 24px;
+}
+
+#sole2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
